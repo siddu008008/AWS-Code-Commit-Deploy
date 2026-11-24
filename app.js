@@ -17,9 +17,9 @@ const products = [
     id: '102',
     name: 'AI Camera Smartphone',
     category: 'Mobiles and accessories',
-    price: 80000,
-    rating: 4.6,
-    badge: 'New 2026 Launch',
+    price: 000,
+    rating: 2.6,
+    badge: 'siddu 2026 Launch',
     desc: 'Next-generation smartphone with AI-powered camera and ultra-fast performance.'
   },
   {
